@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_address",
+						"type": "address"
+					}
+				],
+				"name": "setBlacklist",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"step_1 (Grammar)/Ens.sol": "Grammar"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"step_1 (Grammar)/Ens.sol": {
+			"keccak256": "0xadc2ee9c8f3a6cbeca50d20185bfd83330b91058d0b7a47c6b9fa51dfa7aaef6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8f7e77f30bbc906dfa96dd6a102258b592fbcd9d755ae0b1cd810cf61ef49d02",
+				"dweb:/ipfs/QmW1sQzyQKk1MfCET353zBAM3ZuSPhwNtKMzyjCGSUr8Co"
+			]
+		}
+	},
+	"version": 1
+}
